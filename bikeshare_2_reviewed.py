@@ -30,7 +30,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        month = input("Could you please choose one of the following months: \nJanuary,\nFebruary,\nMarch,\nApril,\nMay,\nJune\nAll\n").lower()
+        month = input("Could you please choose one of the following months which are first half of the year: \nJanuary,\nFebruary,\nMarch,\nApril,\nMay,\nJune\nAll\n").lower()
         if month in bikesharemonths:
             break
         else:
