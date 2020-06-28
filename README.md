@@ -2,7 +2,7 @@
 28.06.2020
 
 ### Project Title
-Replace the Project Title
+Kivanc's first GIT project
 
 ### Description
 Describe what your project is about and what it does
