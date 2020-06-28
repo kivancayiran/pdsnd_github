@@ -8,7 +8,9 @@ Kivanc's first GIT project
 This project is about Bikeshare data of three cities of U.S.A.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 www.github.com
